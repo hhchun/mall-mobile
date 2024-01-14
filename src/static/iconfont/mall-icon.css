@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "mall-icon"; /* Project id 4403933 */
+  src: url('mall-icon.ttf?t=1704907657495') format('truetype');
+}
+
+.mall-icon {
+  font-family: "mall-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-open-eye:before {
+  content: "\e600";
+}
+
+.icon-circle:before {
+  content: "\e601";
+}
+
+.icon-wechat:before {
+  content: "\e602";
+}
+
+.icon-tick-fill:before {
+  content: "\e603";
+}
+
+.icon-close-eye:before {
+  content: "\e607";
+}
+
+.icon-clear-fill:before {
+  content: "\e605";
+}
+
+.icon-back:before {
+  content: "\e606";
+}
+
+.icon-index:before {
+  content: "\e8b9";
+}
+
+.icon-data:before {
+  content: "\e8ba";
+}
+
+.icon-mine:before {
+  content: "\e8bb";
+}
+
+.icon-mine-fill:before {
+  content: "\e8c6";
+}
+
+.icon-index-fill:before {
+  content: "\e8c7";
+}
+
+.icon-data-fill:before {
+  content: "\e8c8";
+}
+
+.icon-role:before {
+  content: "\e609";
+}
+
+.icon-permission:before {
+  content: "\e60a";
+}
+
+.icon-user:before {
+  content: "\e60b";
+}
+
+.icon-notice-fill:before {
+  content: "\e758";
+}
+
+.icon-notice:before {
+  content: "\e759";
+}
